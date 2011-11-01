@@ -1,0 +1,15 @@
+Library for matrix manipulation and operations:
+
++/- and *
+Gaussian elimination
+Inverse matrix by gaussian elimination
+Inverse
+Solve equation systems
+Determinant
+
+NOTE: 
+ Number_Theory_Tools.adb 
+ Permutations_Generic.adb 
+ Number_Theory_Tools.ads 
+ Permutations_Generic.ads 
+ are needed to compile.
